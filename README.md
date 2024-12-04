@@ -73,8 +73,8 @@ To set up the limupa eCommerce website locally, follow these steps:
 4. Run the application
     
     ```bash
-    cd server; 
-    npm start
+    cd server;
+    nodemon index.js
     ```
 5. **Access the Application**:
     Open your web browser and go to http://localhost:3000 (or the specified port).
