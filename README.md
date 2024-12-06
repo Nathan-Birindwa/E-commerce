@@ -2,7 +2,7 @@
 
 ## Overview
 
-**[Repo name]** is a fully functional eCommerce website designed for selling digital products. It features a modern design and is built with a responsive frontend using Bootstrap 4, complemented by a robust backend to handle product management, user accounts, and transactions.
+E-Commerce is a fully functional eCommerce website designed for selling digital products. It features a modern design and is built with a responsive frontend using Bootstrap 4, complemented by a robust backend to handle product management, user accounts, and transactions.
 
 ## Features
 
