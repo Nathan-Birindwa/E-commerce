@@ -11,7 +11,7 @@ E-Commerce is a fully functional eCommerce website designed for selling digital 
 - **Shopping Cart**: Users can add products to their cart and manage their selections.
 - **Wishlist**: Users can save products for later purchase.
 - **Checkout Process**: Streamlined checkout process with payment integration.
-- **Order Management**: Users can view their order history and track their purchases.
+- **Order Management**: Users can view their order history and track their purchases..
 - **Responsive Design**: Optimized for all devices, ensuring a seamless shopping experience.
 - **Blog Section**: Share updates, news, and articles with customers.
 - **SEO Friendly**: Optimized for search engines to help increase visibility.
